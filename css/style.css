@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin: 0px;
+    background-color: #fff9f3;
+}
+
+h1{
+    font-family: 'League Gothic', sans-serif;
+    font-size: 60px;
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+
+}
+
+h3 {
+    font-weight: bold;
+    color: #8d4728;
+}
+a{
+    text-decoration: none;
+}
+
+#c{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80% ;
+    color: #74361e;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+}
+
